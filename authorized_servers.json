@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "ip": "123.45.67.89",
+      "name": "FantasmaZ Oficial"
+    },
+    {
+      "ip": "98.76.54.32",
+      "name": "Servidor Teste"
+    }
+  ]
+}
