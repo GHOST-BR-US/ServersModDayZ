@@ -2,5 +2,13 @@
     {
         "ip": "209.222.97.90",
         "server": "server teste"
+    },
+    {
+        "ip": "177.137.65.133",
+        "server": "server teste"
+    },
+    {
+        "ip": "177.55.129.133",
+        "server": "server teste"
     }
 ]
