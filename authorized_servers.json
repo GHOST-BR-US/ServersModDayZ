@@ -1,14 +1,26 @@
 [
     {
-        "ip": "209.222.97.90",
-        "server": "server teste"
-    },
-    {
         "ip": "177.137.65.133",
         "server": "server teste"
     },
     {
         "ip": "177.55.129.133",
+        "server": "server teste"
+    },
+    {
+        "ip": "172.16.0.1",
+        "server": "server teste"
+    },
+    {
+        "ip": "172.16.0.171",
+        "server": "server teste"
+    },
+    {
+        "ip": "255.255.255.0",
+        "server": "server teste"
+    },
+    {
+        "ip": "208.67.222.222",
         "server": "server teste"
     }
 ]
