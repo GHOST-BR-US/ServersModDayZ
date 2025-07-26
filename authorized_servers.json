@@ -1,12 +1,6 @@
-{
-  "servers": [
+[
     {
-      "ip": "123.45.67.89",
-      "name": "FantasmaZ Oficial"
-    },
-    {
-      "ip": "98.76.54.32",
-      "name": "Servidor Teste"
+        "ip": "45.172.198.226",
+        "server": "LOCAL"
     }
-  ]
-}
+]
